@@ -1,0 +1,24 @@
+{
+  "name": "modular-express-seed",
+  "version": "0.0.0",
+  "description": "modular-express-seed",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/modular-express-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdi2290/modular-express-seed/issues"
+  },
+  "homepage": "https://github.com/gdi2290/modular-express-seed",
+  "dependencies": {
+    "jade": "~1.1.5",
+    "express": "~3.4.8"
+  }
+}
